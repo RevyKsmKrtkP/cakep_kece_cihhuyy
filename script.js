@@ -4,5 +4,5 @@ const tombolSapa = document.getElementById('sapaButton');
 tombolSapa.addEventListener('clikc', function() {
   //3. jalankan kode ini ketik tombol di-klik
   alert("Halo! Terima kasih Sudah berkunjung!');
-        }];
+}];
                 
