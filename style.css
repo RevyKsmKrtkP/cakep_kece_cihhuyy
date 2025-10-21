@@ -14,8 +14,8 @@ body {
     text-align: center;
 }
 .kartu-profil img {
-    width: 90px;
-    border-radius: 35%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+    width: 150px;
+    border-radius: 60%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
      /* ... (kode dari slide sebelumnya)... */
